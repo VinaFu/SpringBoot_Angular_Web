@@ -16,8 +16,7 @@ Spring Boot Full Stack with Angular
  DEMO@ 
 https://youtu.be/dTuPlfDhxLM  
 
-![image](https://github.com/VinaFu/Employee-Manager-App/assets/105020281/eff1cef3-1791-4f7c-9130-abbc47a974eb)
-
+![image](https://github.com/VinaFu/SpringBoot_Angular_Web/assets/105020281/d0b09eee-b002-4d93-acba-45d000581b5e)
 
 # Knowledge Contents:
 
