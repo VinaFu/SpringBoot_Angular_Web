@@ -1,8 +1,6 @@
 # SpringBoot_Angular_Web
 SpringBoot_Angular_Mysql
 
-Spring Boot Full Stack with Angular 
-
 # Tools in use:
   
     VS Code - front-end
@@ -12,7 +10,6 @@ Spring Boot Full Stack with Angular
     Postman/ Httppie
 
 # Interface
-
  DEMO@ 
 https://youtu.be/dTuPlfDhxLM  
 
