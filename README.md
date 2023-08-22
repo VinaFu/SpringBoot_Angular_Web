@@ -1,6 +1,12 @@
 # SpringBoot_Angular_Web
 SpringBoot_Angular_Mysql
 
+# Interface
+ DEMO@ 
+https://youtu.be/dTuPlfDhxLM  
+
+![image](https://github.com/VinaFu/SpringBoot_Angular_Web/assets/105020281/d0b09eee-b002-4d93-acba-45d000581b5e)
+
 # Tools in use:
   
     VS Code - front-end
@@ -8,12 +14,6 @@ SpringBoot_Angular_Mysql
     Mysql
     Angular
     Postman/ Httppie
-
-# Interface
- DEMO@ 
-https://youtu.be/dTuPlfDhxLM  
-
-![image](https://github.com/VinaFu/SpringBoot_Angular_Web/assets/105020281/d0b09eee-b002-4d93-acba-45d000581b5e)
 
 # Knowledge Contents:
 
